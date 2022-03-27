@@ -1,0 +1,2 @@
+    In this refracting activity homework I applied knowledge and skills to clean up a pre-existing code. With the implimentation of semantic html elements and alternative text for images this website has become more user friendly and applicaple among those whom may have disabilities. I structured this to be more appealing to the eye as well as being more efficient for users.  
+    01-HTML-Git-CSS\02-Homework\Develop\assets\index.html
